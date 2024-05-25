@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Introduction](README.md)
+* [Malware for Dummies](malware-for-dummies.md)
