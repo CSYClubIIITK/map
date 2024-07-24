@@ -1,0 +1,8 @@
+[package]
+name = "Maldev"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+active-win-pos-rs = "0.8"
+keystroke = "0.0.3"
