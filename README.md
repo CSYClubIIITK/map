@@ -6,7 +6,7 @@ ALMOST ALL MALWARE SAMPLES HERE ARE WELL DOCUMENTED AND ANY ANTI-VIRUS WILL DETE
 
 
 
-![Logo](https://drive.google.com/file/d/1Mu6DfioWW0maakWaHl-NkyfJcET94VhC/view?usp=sharing)
+![Logo](https://i.imgur.com/yo7LuuQ.png)
 
 
 ## Appendix
