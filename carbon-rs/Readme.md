@@ -18,6 +18,8 @@ This is a Project undertaken by CSY-Club IIITK to help students get a more hands
 
 carbon-rs has been written by us at CSY-Club IIITK as a showcase virus, to explain the workings of WIN32 API and how exactly a common type of Malware Functions.
 ## Usage/Examples
+DISABLE WINDOWS DEFENDER OR ANY OTHER ANTIVIRUS IN YOUR COMPUTER BEFORE YOU RUN THIS
+You can trust me/US :))))
 
 The app takes one argument, time.
 This attribute specifies the amount of time the APP runs.
